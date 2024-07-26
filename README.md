@@ -31,8 +31,8 @@ Welcome to the Dear Friend app repository. This app is designed to assist visual
 #### Cloning the Repository
 
 Clone the repository to your local machine:
-git clone https://github.com/acmis1/dear-friend-project.git
-cd dear-friend-project
+- git clone https://github.com/acmis1/dear-friend-project.git
+- cd dear-friend-project
 
 #### Using Xcode (macOS)
 - Open Xcode.
@@ -40,7 +40,7 @@ cd dear-friend-project
 - Build and run the project.
 
 #### Using Visual Studio Code (WSL/Windows)
-- pen Visual Studio Code.
+- Open Visual Studio Code.
 - Open the Command Palette (Ctrl+Shift+P) and select Remote-WSL: New Window.
 - Open the cloned repository folder in the new window.
 - Build and run the project using the integrated terminal.
@@ -50,7 +50,7 @@ cd dear-friend-project
 - Follow the on-screen instructions to explore the app's features.
 
 ## Contributing
-This project is maintained by the following team members:
+The following team members maintain this project:
 - Cao Tran Gia An 
 - Dinh Le Hong Tin 
 - Nguyen Dai Thanh 
@@ -59,4 +59,4 @@ This project is maintained by the following team members:
 - Nguyen Vu Trong Nhan 
 - Vu Minh Ha 
 
-All contributions to this repository should be made through the collaborative efforts of the team members listed above.
+All contributions to this repository should be made through the team members' collaborative efforts.
